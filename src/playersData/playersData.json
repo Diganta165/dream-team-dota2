@@ -1,0 +1,136 @@
+[{
+    "id": 1,
+    "name": "Clement Ivanov",
+    "gaming_name": "Puppy",
+    "email": "jcazin0@php.net",
+    "image": "https://i.ibb.co/r4DMH7w/puppy.jpg",
+    "team": "Team Secret",
+    "position": "Hard Support",
+    "price": 787
+  }, {
+    "id": 2,
+    "name": "Micahal Jankowski",
+    "gaming_name": "Nisha",
+    "email": "danscombe1@domainmarket.com",
+    "image": "https://i.ibb.co/QYxwv5Q/nisha.png",
+    "team": "Team Secret",
+    "position": "Mid Laner",
+    "price": 893
+  }, {
+    "id": 3,
+    "name": "Yazied Jaradat",
+    "gaming_name": "Yapzor",
+    "email": "dminett2@forbes.com",
+    "image": "https://i.ibb.co/QmsWVGN/yapzor.png",
+    "team": "Team Secret",
+    "position": "Support",
+    "price": 636
+  }, {
+    "id": 4,
+    "name": "Lasse Urpalainen",
+    "gaming_name": "Matumbaman",
+    "email": "cslane3@cornell.edu",
+    "image": "https://i.ibb.co/DkBXHJB/matumbaman.jpg",
+    "team": "Team Secret",
+    "position": "Carry",
+    "price": 670
+  }, {
+    "id": 5,
+    "name": "Ludwig Wahlberg",
+    "gaming_name": "Zai",
+    "email": "pwharton4@purevolume.com",
+    "image": "https://i.ibb.co/fQ4cLZY/zai.jpg",
+    "team": "Team Secret",
+    "position": "Offlaner",
+    "price": 714
+  }, {
+    "id": 6,
+    "name": "Amer Al-Barkawi",
+    "gaming_name": "Miracle",
+    "email": "aelwyn5@weibo.com",
+    "image": "https://i.ibb.co/hZCySSv/miracle.png",
+    "team": "Team Nigma",
+    "position": "Carry",
+    "price": 262
+  }, {
+    "id": 7,
+    "name": "Ivan Ivanov",
+    "gaming_name": "Mind Control",
+    "email": "jloughman6@ucoz.com",
+    "image": "https://i.ibb.co/WyjrvHn/mind-control.png",
+    "team": "Team Nigma",
+    "position": "Offlaner",
+    "price": 954
+  }, {
+    "id": 8,
+    "name": "Maroun Merhej",
+    "gaming_name": "GH",
+    "email": "alacase7@ehow.com",
+    "image": "https://i.ibb.co/zs2TsZP/gh.jpg",
+    "team": "Team Nigma",
+    "position": "Support",
+    "price": 499
+  }, {
+    "id": 9,
+    "name": "Kuro Salehi Takhasomi",
+    "gaming_name": "KuroKy",
+    "email": "hmcsperron8@theguardian.com",
+    "image": "https://i.ibb.co/s25BYtG/kuroKy.png",
+    "team": "Team Nigma",
+    "position": "Hard Support",
+    "price": 190
+  }, {
+    "id": 10,
+    "name": "Artour Babaev",
+    "gaming_name": "Arteezy",
+    "email": "tscowcraft9@house.gov",
+    "image": "https://i.ibb.co/3pT3Pvm/rtz.png",
+    "team": "EG",
+    "position": "Carry",
+    "price": 788
+  }, {
+    "id": 11,
+    "name": "Abed Yusop",
+    "gaming_name": "Abed",
+    "email": "sbrimnera@tiny.cc",
+    "image": "https://i.ibb.co/7kzrFg4/Abed.png",
+    "team": "EG",
+    "position": "Midlaner",
+    "price": 387
+  }, {
+    "id": 12,
+    "name": "Daryl Koh Pei Xiang",
+    "gaming_name": "iceiceice",
+    "email": "jclitheroeb@jalbum.net",
+    "image": "https://i.ibb.co/Rj082Lm/iceiceice.png",
+    "team": "EG",
+    "position": "Offlaner",
+    "price": 474
+  }, {
+    "id": 13,
+    "name": "Andreas Nielsen",
+    "gaming_name": "Crit",
+    "email": "ssheridanc@adobe.com",
+    "image": "https://i.ibb.co/Jy8Z3r8/crit.png",
+    "team": "EG",
+    "position": "Support",
+    "price": 809
+  }, {
+    "id": 14,
+    "name": "Tal Aizik",
+    "gaming_name": "Fly",
+    "email": "rscandrettd@wiley.com",
+    "image": "https://i.ibb.co/Mcq4Gj6/fly.png",
+    "team": "EG",
+    "position": "Hard Support",
+    "price": 229
+  }, {
+    "id": 15,
+    "name": "Sumail Hassan",
+    "gaming_name": "Sumail",
+    "email": "khallere@clickbank.net",
+    "image": "https://i.ibb.co/L9d3fwZ/sumail.png",
+    "team": "OG",
+    "position": "Midlaner",
+    "price": 513
+  }]

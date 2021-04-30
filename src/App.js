@@ -1,23 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import MakeTeam from './components/MakeTeam/MakeTeam';
+import playerData from './playersData/playersData.json';
+import { useEffect, useState} from 'react';
+
 
 function App() {
+  const [players,setPlayers] = useState([]);
+  useEffect(()=>{
+    setPlayers(playerData); 
+  },[])
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header></Header>
+      <MakeTeam></MakeTeam>
+      
     </div>
   );
 }
